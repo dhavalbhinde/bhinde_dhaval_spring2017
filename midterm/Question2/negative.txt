@@ -3903,3 +3903,11 @@ yawn
 zealot
 zealous
 zealously
+sell
+short
+kill
+hide
+disagree
+compromise
+debt
+inflate

@@ -3911,3 +3911,11 @@ disagree
 compromise
 debt
 inflate
+sell
+short
+kill
+hide
+disagree
+compromise
+debt
+inflate
