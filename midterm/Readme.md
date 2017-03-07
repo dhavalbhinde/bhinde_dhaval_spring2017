@@ -27,7 +27,7 @@ Using the Enron files, analyze the count of inbox, sent and deleted items by Use
 
 ![Q1A2_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q1A2_1.PNG)
 
-From the graph above, we can narrow down to the top 25 users who have unusually high voulume of sent emails.
+From the graph above, we can narrow down to the top 25 users who have unusually high volume of sent emails.
 
 ![Q1A2_3](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q1A2_3.PNG)
 
