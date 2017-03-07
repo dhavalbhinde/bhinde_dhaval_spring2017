@@ -19,7 +19,7 @@ Using the Enron files, analyze the Inbox and Calendar items to find a pattern in
 
 ```python
 from IPython.display import Image
-Image("images\Q1A1_1.png")
+Image("bhinde_dhaval_spring2017\midterm\images\Q1A1_1.png")
 ```
 
 
