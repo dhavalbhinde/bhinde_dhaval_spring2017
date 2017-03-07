@@ -57,7 +57,7 @@ Analysis3 Conclusion:
     
 - From the pie-chart above it can be inferred that almost 60% of the data points to negative inferences and terms like sell,       short, inflate and other negative sentiments.    
 
-#### Question2 Analysis1:
+### Question2 Analysis1:
 
 Search the NYT API - Article Search, for articles related to President Trump, and perform a Sentiment Analysis on his articles.
 
@@ -72,7 +72,7 @@ Search the NYT API - Article Search, for articles related to President Trump, an
 Analysis1 Conclusion: 
 - From the above pie chart it can be conculded that the NYT articles are almost neutral, while making news which includes         President Trump
 
-#### Question2 Analysis2:
+### Question2 Analysis2:
 
 Search the NYT API - Article Search, for articles related to Restaurants & Food, and perform an analysis to find the most reviewed cuisines. Also, find the frequency of food-reviews as per year.
 
@@ -93,7 +93,7 @@ Analysis2 Conclusion:
 
 ![Q2A2_2](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q2A2_2.PNG)
 
-#### Question2 Analysis3:
+### Question2 Analysis3:
 
 Search the NYT API - Most Popular Segment, for articles related to Travel & Tourism, and perform an analysis to find the top 25 most reviewed cities in the world.
 
