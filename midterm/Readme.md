@@ -6,7 +6,7 @@ Using the Enron files, analyze the Inbox and Calendar items to find a pattern in
 
 - Plot a bar-chart to analyze the pattern in the volume of data
 
-:[Q1A1_1] (https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q1A1_1.PNG)
+![Q1A1_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q1A1_1.PNG)
 
 
 ```python
