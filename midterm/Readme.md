@@ -10,20 +10,6 @@ Using the Enron files, analyze the Inbox and Calendar items to find a pattern in
 
 ![Q1A1_2](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q1A1_2.PNG)
 
-
-
-
-```python
-Image("images\Q1A1_2.png")
-```
-
-
-
-
-![png](output_3_0.png)
-
-
-
 Analysis1 Conclusion:
 
 - As can be seen from the graphs, the mailbox activity started to get high in the start of 2001 and is at it's peak at October, 2001. It is well known that Jeffrey Skilling and Kenneth Lay, then CEO and Chairman of Enron respectively at the time of the scandal, were holding regular meeting with their top executives in order to pressure them into finding new ways to hide Enron’s debt. 
@@ -37,55 +23,15 @@ Using the Enron files, analyze the count of inbox, sent and deleted items by Use
 - Step3: Sort and Plot the data to analyze the pattern within the data for high volume users
 - Step4: Find an intersection of all 3 categories to view the common users with high volume activity
 
+![Q1A2_2](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q1A2_2.PNG)
 
-```python
-Image("images\Q1A2_2.png")
-```
-
-
-
-
-![png](output_6_0.png)
-
-
-
-
-```python
-Image("images\Q1A2_1.png")
-```
-
-
-
-
-![png](output_7_0.png)
-
-
+![Q1A2_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q1A2_1.PNG)
 
 From the graph above, we can narrow down to the top 25 users who have unusually high voulume of sent emails.
 
+![Q1A2_3](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q1A2_3.PNG)
 
-```python
-Image("images\Q1A2_3.png")
-```
-
-
-
-
-![png](output_9_0.png)
-
-
-
-
-```python
-Image("images\Q1A2_4.png")
-```
-
-
-
-
-![png](output_10_0.png)
-
-
+![Q1A2_4](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q1A2_4.PNG)
 
 Analysis2 Conclusion:
 
@@ -105,17 +51,7 @@ Step3: Lemmatize the word corpus and filter the data for sentiment analysis
 Step4: Use the custom made positive, negative words business dictionary and analyse the corpus
 Step5: Make a pir-chart to show the analysis
 
-
-```python
-Image("images\Q1A3_1.png")
-```
-
-
-
-
-![png](output_13_0.png)
-
-
+![Q1A3_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q1A3_1.PNG)
 
 Analysis3 Conclusion:
     
@@ -131,17 +67,7 @@ Step3: Read the snippet and the leading paragraph to build the data for analysis
 Step4: Clean and tokenize the data to remove the stop words and unwanted characters
 Step5: Import a positive, negative word dictionary from unc and perform sentiment analysis on the corpus
 
-
-```python
-Image("images\Q2A1_1.png")
-```
-
-
-
-
-![png](output_16_0.png)
-
-
+![Q2A1_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q2A1_1.PNG)
 
 Analysis1 Conclusion: 
 - From the above pie chart it can be conculded that the NYT articles are almost neutral, while making news which includes         President Trump
@@ -158,34 +84,14 @@ Step5: Clean the data and remove unwanted characters and punctuations
 Step6: Run the corpus against the cuisine dictionary to find the most cited cuisine
 Step7: Plot the data for the most famous cuisine and the no.of food articles written by year
 
-
-```python
-Image("images\Q2A2_1.png")
-```
-
-
-
-
-![png](output_19_0.png)
-
-
+![Q2A2_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q2A2_1.PNG)
 
 Analysis2 Conclusion:
 
 - As can be seen from the above graph, French cuisine is the most cited one followed by Chinese.
 - And, the below graph shows the no. of food articles written every year. It can be inferred that during the market bull phase     more no.of food and leisure articles were printed. 
 
-
-```python
-Image("images\Q2A2_2.png")
-```
-
-
-
-
-![png](output_21_0.png)
-
-
+![Q2A2_2](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q2A2_2.PNG)
 
 #### Question2 Analysis3:
 
@@ -197,17 +103,7 @@ Step3: Read the leading paragraph to build the data for analysis
 Step4: Clean, tokenize and lemmatize the data to build a dictionary of the word corpus
 Step5: Run the corpus dictionary against the cities list to get the most cited city.
 
-
-```python
-Image("images\Q2A3_1.png")
-```
-
-
-
-
-![png](output_23_0.png)
-
-
+![Q2A3_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q2A3_1.PNG)
 
 Analysis3 Conclusion:
 
