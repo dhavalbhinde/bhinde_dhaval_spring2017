@@ -8,16 +8,7 @@ Using the Enron files, analyze the Inbox and Calendar items to find a pattern in
 
 ![Q1A1_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q1A1_1.PNG)
 
-
-```python
-from IPython.display import Image
-Image("images\Q1A1_1.png")
-```
-
-
-
-
-![png](output_2_0.png)
+![Q1A1_2](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q1A1_2.PNG)
 
 
 
