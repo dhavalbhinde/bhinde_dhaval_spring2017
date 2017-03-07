@@ -27,7 +27,7 @@ Using the Enron files, analyze the count of inbox, sent and deleted items by Use
 
 ![Q1A2_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q1A2_1.PNG)
 
-From the graph above, we can narrow down to the top 25 users who have unusually high volume of sent emails.
+- From the graph above, we can narrow down to the top 25 users who have unusually high volume of sent emails.
 
 ![Q1A2_3](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q1A2_3.PNG)
 
@@ -43,13 +43,13 @@ Analysis2 Conclusion:
 
 ### Question1 Analysis3:
 
-Using the Enron files, and the output from previos analysis, we dig further to analyze the the Top 15 users Inbox Data and to find the sentiment of their Inbox emails using NLTK. Here, we have used words like sell,short,inflate,kill and have created a custom made negative and positive words business dictionary. 
+Using the Enron files, and the output from previos analysis, we dig further to analyze the the Top 15 users Inbox Data and to find the   sentiment of their Inbox emails using NLTK. Here, we have used words like sell,short,inflate,kill and have created a custom made         negative and positive words business dictionary. 
 
-Step1: Read the content from the Inbox mails of the Top 15 high volume users
-Step2: Perform data cleaning operations and remove stop words from the raw corpus
-Step3: Lemmatize the word corpus and filter the data for sentiment analysis
-Step4: Use the custom made positive, negative words business dictionary and analyse the corpus
-Step5: Make a pir-chart to show the analysis
+- Step1: Read the content from the Inbox mails of the Top 15 high volume users
+- Step2: Perform data cleaning operations and remove stop words from the raw corpus
+- Step3: Lemmatize the word corpus and filter the data for sentiment analysis
+- Step4: Use the custom made positive, negative words business dictionary and analyse the corpus
+- Step5: Make a pir-chart to show the analysis
 
 ![Q1A3_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q1A3_1.PNG)
 
@@ -61,11 +61,11 @@ Analysis3 Conclusion:
 
 Search the NYT API - Article Search, for articles related to President Trump, and perform a Sentiment Analysis on his articles.
 
-Step1: Fetch the data in the form of JSON files from the NYT API
-Step2: Read the JSON data and merge all the files, since most of the files ~30kb
-Step3: Read the snippet and the leading paragraph to build the data for analysis
-Step4: Clean and tokenize the data to remove the stop words and unwanted characters
-Step5: Import a positive, negative word dictionary from unc and perform sentiment analysis on the corpus
+- Step1: Fetch the data in the form of JSON files from the NYT API
+- Step2: Read the JSON data and merge all the files, since most of the files ~30kb
+- Step3: Read the snippet and the leading paragraph to build the data for analysis
+- Step4: Clean and tokenize the data to remove the stop words and unwanted characters
+- Step5: Import a positive, negative word dictionary from unc and perform sentiment analysis on the corpus
 
 ![Q2A1_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q2A1_1.PNG)
 
@@ -76,13 +76,13 @@ Analysis1 Conclusion:
 
 Search the NYT API - Article Search, for articles related to Restaurants & Food, and perform an analysis to find the most reviewed cuisines. Also, find the frequency of food-reviews as per year.
 
-Step1: Fetch the data in the form of JSON files from the NYT API
-Step2: Read the JSON data and merge all the files, since most of the files ~30kb
-Step3: Read the leading paragraph to build the data for analysis
-Step4: Build a dictionary to keep a track of the volume of articles by date (mm/yyyy)
-Step5: Clean the data and remove unwanted characters and punctuations
-Step6: Run the corpus against the cuisine dictionary to find the most cited cuisine
-Step7: Plot the data for the most famous cuisine and the no.of food articles written by year
+- Step1: Fetch the data in the form of JSON files from the NYT API
+- Step2: Read the JSON data and merge all the files, since most of the files ~30kb
+- Step3: Read the leading paragraph to build the data for analysis
+- Step4: Build a dictionary to keep a track of the volume of articles by date (mm/yyyy)
+- Step5: Clean the data and remove unwanted characters and punctuations
+- Step6: Run the corpus against the cuisine dictionary to find the most cited cuisine
+- Step7: Plot the data for the most famous cuisine and the no.of food articles written by year
 
 ![Q2A2_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q2A2_1.PNG)
 
@@ -97,11 +97,11 @@ Analysis2 Conclusion:
 
 Search the NYT API - Most Popular Segment, for articles related to Travel & Tourism, and perform an analysis to find the top 25 most reviewed cities in the world.
 
-Step1: Fetch the data in the form of JSON files from the NYT API
-Step2: Read the JSON data and merge all the files, since most of the files ~30kb
-Step3: Read the leading paragraph to build the data for analysis
-Step4: Clean, tokenize and lemmatize the data to build a dictionary of the word corpus
-Step5: Run the corpus dictionary against the cities list to get the most cited city.
+- Step1: Fetch the data in the form of JSON files from the NYT API
+- Step2: Read the JSON data and merge all the files, since most of the files ~30kb
+- Step3: Read the leading paragraph to build the data for analysis
+- Step4: Clean, tokenize and lemmatize the data to build a dictionary of the word corpus
+- Step5: Run the corpus dictionary against the cities list to get the most cited city.
 
 ![Q2A3_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q2A3_1.PNG)
 
