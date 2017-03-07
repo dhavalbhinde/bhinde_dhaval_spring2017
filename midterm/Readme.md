@@ -23,6 +23,11 @@ Using the Enron files, analyze the count of inbox, sent and deleted items by Use
 - Step3: Sort and Plot the data to analyze the pattern within the data for high volume users
 - Step4: Find an intersection of all 3 categories to view the common users with high volume activity
 
+- The below scatter plot shows the distribution of the sent emails.
+  The x-axis represents the number of email messages and the y-axis represents the number of Enron employees in log scale.
+  The graph clearly shows that the messages are not evenly distributed between the users. A small number of users have sent a large       number of messages. 
+
+
 ![Q1A2_2](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q1A2_2.PNG)
 
 ![Q1A2_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q1A2_1.PNG)
@@ -34,12 +39,8 @@ Using the Enron files, analyze the count of inbox, sent and deleted items by Use
 ![Q1A2_4](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/midterm/images/Q1A2_4.PNG)
 
 Analysis2 Conclusion:
-
-- The above scatter plot activity of sent emails shows the distribution of the sent emails.
-  The x-axis represents the number of email messages and the y-axis represents the number of Enron employees in log scale.
-  The graph clearly shows that the messages are not evenly distributed between the users. A small number of users have sent a     large number of messages. 
   
-- Also, if we refer the Inbox, Sent and Deleted items of all the users, it can be inferred that a small amount of users have       high volume of activity. To narrow down the culprits this data can be used for human intervention and further investigation.   
+- Referring to the Inbox, Sent and Deleted items of all the users, it can be inferred that a small amount of users have high volume of     activity. To narrow down the culprits this data can be used for human intervention and further investigation.   
 
 ### Question1 Analysis3:
 
