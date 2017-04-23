@@ -15,8 +15,7 @@ Script: Download API Data.ipynb - will download the data from the API and save i
 Since, most of our analysis will be based of the following fields, the rest of the data is filtered out.
 
 Fields taken into consideration include: 
-- agency_name, borough, city, closed_date, complaint_type, created_date, 
-- descriptor, due_date, incident_zip, street_name , resolution_description
+- agency_name, borough, city, closed_date, complaint_type, created_date, descriptor, due_date, incident_zip, street_name , resolution_description
 
 
 ### Analysis1:
@@ -106,8 +105,12 @@ http://nbviewer.jupyter.org/github/dhavalbhinde/bhinde_dhaval_spring2017/blob/ma
 ![A3G2_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/finals/images/Analysis3_Graph2.png)
 
 
-- Addtional Instructions to Run the code
+### Addtional Instructions to Run the code
 1. Install Plotly using 'pip install plotly'.
 2. Install WordCloud using 'pip install wordcloud'
    If the installation fails for WordCloud - please follow: https://github.com/amueller/word_cloud/
 
+### Data Related Instructions
+1. Since, the original data is too heavy (~1.6Gb) to be loaded onto GitHub - the data can be downloaded onto the finals/data folder easily when you execute the Download API Data.ipynb notebook.
+2. Please make sureyou have approximately 5GB of free space in the hard drive or else the request will fail.
+3. To get the data_download_key please visit: https://data.cityofnewyork.us/profile/app_tokens
