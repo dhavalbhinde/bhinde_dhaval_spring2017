@@ -104,3 +104,10 @@ http://nbviewer.jupyter.org/github/dhavalbhinde/bhinde_dhaval_spring2017/blob/ma
 3. Create a wordcloud to see the most frequently used words in the corpus 
 
 ![A3G2_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/finals/images/Analysis3_Graph2.png)
+
+
+- Addtional Instructions to Run the code
+1. Install Plotly using 'pip install plotly'.
+2. Install WordCloud using 'pip install wordcloud'
+   If the installation fails for WordCloud - please follow: https://github.com/amueller/word_cloud/
+
