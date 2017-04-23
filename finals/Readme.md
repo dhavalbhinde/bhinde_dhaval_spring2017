@@ -18,11 +18,11 @@ Fields taken into consideration include:
 - agency_name, borough, city, closed_date, complaint_type, created_date, 
 - descriptor, due_date, incident_zip, street_name , resolution_description
 
+
+### Analysis1:
+
 Since, I have used Plotly graphs are not visible in GitHub - as iFrames are not supported.
 Visit the below link to see the interactive graph for Analysis1: http://nbviewer.jupyter.org/github/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/finals/analysis/Analysis%201.ipynb
-
-
-Analysis1:
 
 - Find the number of incidents reported each month by Borough for year 2015, 2016 and 2017 and plot their distribution    
 
@@ -44,10 +44,10 @@ Digging deeper to analyse the Boroughs, first we segregate the data by Borough, 
 5.Transform this data into Percentage and plot the % contribution of each complaint type by Year for each of the 5 Boroughs.
 
 
+### Analysis 2:
+
 Since, I have used Plotly graphs are not visible in GitHub - as iFrames are not supported.
 Visit the below link to see the interactive graph for Analysis2: http://nbviewer.jupyter.org/github/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/finals/analysis/Analysis%202.ipynb
-
-Analysis 2:
 
 - Finding the Top 10 City Zip codes where incidents are reported for Year 2017
 
@@ -68,11 +68,12 @@ Analysis 2:
 1.Filter the data by City and Complaint Type and group them to find the sum 
 2.Plot a bar chart to show the Most Reported Issue in Top 25 Cities - 2017
 
+
+### Analysis3:
+
 Since, I have used Plotly graphs are not visible in GitHub - as iFrames are not supported.
 Visit the below link to see the interactive graph for Analysis3:
 http://nbviewer.jupyter.org/github/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/finals/analysis/Analysis%203.ipynb
-
-Analysis3:
 
 - From Analysis 2 we could derive that HEAT/HOT WATER is the highest reported incident. In this analysis we will try to dig further and find the average resolution time for this issue by each Borough for Years 2015, 2016 and 2017.
 
