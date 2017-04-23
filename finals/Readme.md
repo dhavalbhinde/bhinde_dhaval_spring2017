@@ -114,3 +114,4 @@ http://nbviewer.jupyter.org/github/dhavalbhinde/bhinde_dhaval_spring2017/blob/ma
 1. Since, the original data is too heavy (~1.6Gb) to be loaded onto GitHub - the data can be downloaded onto the finals/data folder easily when you execute the Download API Data.ipynb notebook.
 2. Please make sureyou have approximately 5GB of free space in the hard drive or else the request will fail.
 3. To get the data_download_key please visit: https://data.cityofnewyork.us/profile/app_tokens
+4. The CSV files under folder data are sample inputs only. Please download the complete data by running the Download API Data.ipynb notebook.
