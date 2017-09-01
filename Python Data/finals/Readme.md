@@ -21,7 +21,7 @@ Fields taken into consideration include:
 ### Analysis1:
 
 Since, I have used Plotly graphs are not visible in GitHub - as iFrames are not supported.
-Visit the below link to see the interactive graph for Analysis1: http://nbviewer.jupyter.org/github/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/finals/analysis/Analysis%201.ipynb
+Visit the below link to see the interactive graph for Analysis1: http://nbviewer.jupyter.org/github/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/Python%20Data/finals/analysis/Analysis%201.ipynb
 
 - Find the number of incidents reported each month by Borough for year 2015, 2016 and 2017 and plot their distribution    
 
@@ -31,7 +31,7 @@ Segregating the data by 5 Boroughs in NY - BRONX, BROOKLYN, MANHATTAN, QUEENS, S
 3. Group the data by Borough, Month and Year and get the count of the incidents reported
 4. Plot the information of all 3 years for each month using Plotly.
 
-![A1G1_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/finals/images/Analysis1_Graph1.png)
+![A1G1_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/Python%20Data/finals/images/Analysis1_Graph1.png)
 
 - Find the Top 10 Complaint Types and plot their distribution by Borough for years 2015, 2016 and 2017
 
@@ -43,12 +43,12 @@ Digging deeper to analyse the Boroughs, first we segregate the data by Borough, 
 4. Find the difference between count of Total Issues and Top 10 Issues to get the count of Other Issues
 5. Transform this data into Percentage and plot the % contribution of each complaint type by Year for each of the 5 Boroughs.
 
-![A1G2_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/finals/images/Analysis1_Graph2.png)
+![A1G2_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/Python%20Data/finals/images/Analysis1_Graph2.png)
 
 ### Analysis 2:
 
 Since, I have used Plotly graphs are not visible in GitHub - as iFrames are not supported.
-Visit the below link to see the interactive graph for Analysis2: http://nbviewer.jupyter.org/github/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/finals/analysis/Analysis%202.ipynb
+Visit the below link to see the interactive graph for Analysis2: http://nbviewer.jupyter.org/github/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/Python%20Data/finals/analysis/Analysis%202.ipynb
 
 - Finding the Top 10 City Zip codes where incidents are reported for Year 2017
 
@@ -57,7 +57,7 @@ Visit the below link to see the interactive graph for Analysis2: http://nbviewer
 3. Get the top 10 zip codes with the highest no. of incidents reported 
 4. Use Seaborn to plot the Top 10 Zip Codes with Highest Reported 311 Incidents - 2017
 
-![A2G1_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/finals/images/Analysis2_Graph1.png)
+![A2G1_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/Python%20Data/finals/images/Analysis2_Graph1.png)
 
 - Finding the highest reported complaint and its distribution by Percent
 
@@ -66,16 +66,16 @@ Visit the below link to see the interactive graph for Analysis2: http://nbviewer
 3. To further analyze the complaint types we narrow down the top 10 complaint types and their % distribution as compared to the total issues reported.
 4. Plot a Donut Graph of Complaints By Type and their % distribution - 2017
 
-![A2G2_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/finals/images/Analysis2_Graph2.png)
+![A2G2_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/Python%20Data/finals/images/Analysis2_Graph2.png)
 
-![A2G3_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/finals/images/Analysis2_Graph3.png)
+![A2G3_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/Python%20Data/finals/images/Analysis2_Graph3.png)
 
 - Finding the highest reported issue for Top 25 Cities
 
 1. Filter the data by City and Complaint Type and group them to find the sum 
 2. Plot a bar chart to show the Most Reported Issue in Top 25 Cities - 2017
 
-![A2G4_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/finals/images/Analysis2_Graph4.png)
+![A2G4_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/Python%20Data/finals/images/Analysis2_Graph4.png)
 
 ### Analysis3:
 
@@ -94,7 +94,7 @@ http://nbviewer.jupyter.org/github/dhavalbhinde/bhinde_dhaval_spring2017/blob/ma
  And, Calculate Average Resolution Times
 7. Plot the Average Resolution Time by Borough for Years 2014-2017 for HEAT issue 
 
-![A3G1_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/finals/images/Analysis3_Graph1.png)
+![A3G1_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/Python%20Data/finals/images/Analysis3_Graph1.png)
 
 - Create a WordCloud from the Resolution_Description Corpus of the data.
 
@@ -102,7 +102,7 @@ http://nbviewer.jupyter.org/github/dhavalbhinde/bhinde_dhaval_spring2017/blob/ma
 2. Perform NTLK and lemmatize the corpus to find the unique words and their frequency after removing the stop words
 3. Create a wordcloud to see the most frequently used words in the corpus 
 
-![A3G2_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/finals/images/Analysis3_Graph2.png)
+![A3G2_1](https://github.com/dhavalbhinde/bhinde_dhaval_spring2017/blob/master/Python%20Data/finals/images/Analysis3_Graph2.png)
 
 
 ### Addtional Instructions to Run the code
